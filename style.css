@@ -20,22 +20,22 @@
  }
 
  .bg1 {
-     background-image: url("../images/main.jpg");
+     background-image: url("main.jpg");
      min-height: 100%;
  }
 
  .bg2 {
-     background-image: url("../images/hands.jpg");
+     background-image: url("hands.jpg");
      min-height: 400px;
  }
 
  .bg3 {
-     background-image: url("../images/women.jpg");
+     background-image: url("women.jpg");
      min-height: 400px;
  }
 
  .bg4 {
-     background-image: url("../images/hand.jpg");
+     background-image: url("hand.jpg");
      min-height: 100%;
  }
 
